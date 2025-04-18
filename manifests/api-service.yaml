@@ -8,7 +8,7 @@ metadata:
     app: api
 spec:
   selector:
-    app: api
+    role: api
   ports:
     - protocol: TCP
       port: 80
